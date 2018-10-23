@@ -3,14 +3,13 @@ github: github.com/Jkim3213                                                     
 email: jinwookim3213@outlook.com                                                                                                                  Suwanee, GA 30024, USA
 
 Jinwoo Jacob Kim
-
 EDUCATION:
 Georgia Institute of Technology, Atlanta, GA
-Bachelor of Science in Computer Science (August 2017 ñ Present; Expected Graduation: May 2020)
+Bachelor of Science in Computer Science (August 2017 – Present; Expected Graduation: May 2020)
 
-ï GPA: 3.86/4.0 (Deanís List Spring 2017)
-ï Threads: Intelligence, Media
-ï Selected Coursework: Data Structure and Algorithms (Java), Object and Design, OOP, Intro to AI(Python), Computer Organization and Program(C), Design and Algorithm, Computer Graphics, Computer Audio
+•	GPA: 3.86/4.0 (Dean’s List Spring 2017)
+•	Threads: Intelligence, Media
+•	Selected Coursework: Data Structure and Algorithms (Java), Object and Design, OOP, Intro to AI(Python), Computer Organization and Program(C), Design and Algorithm, Computer Graphics, Computer Audio
 
 TECHNOLOGY SUMMARY:
 Programming Languages: Java, Python, C, C++, SQL, Tcl
@@ -19,34 +18,34 @@ Other Related Skills: Microsoft Office (Excel, PowerPoint, Word)
 
 PROFESSIONAL EXPERIENCE: 
 Datapath, Duluth, GA, USA
-Software Engineer Intern, May 2018 ñ August 2018
-ï Created an automated SMS service for Datapathís MaxView Software in Java OSGI framework to replace legacy mailing service
-ï Designed admin configuration pages using web designer tool DGLux5 and JavaScript to allow greater ease of use and integration
-ï Improved user specific configurability by display cell-phone carrier data provided by SQL database
-ï Interfaced with satellite data and commands using SNMP and UDP protocols in Tcl scripts to process unreadable satellite bit stream data into user readable values
+Software Engineer Intern, May 2018 – August 2018
+•	Created an automated SMS service for Datapath’s MaxView Software in Java OSGI framework to replace legacy mailing service
+•	Designed admin configuration pages using web designer tool DGLux5 and JavaScript to allow greater ease of use and integration
+•	Improved user specific configurability by displaying cell-phone carrier data provided by SQL database
+•	Interfaced with satellite data and commands using SNMP and UDP protocols in Tcl scripts to process unreadable satellite bit stream data into user readable values
 
 Center for 21st Century Universities, Atlanta, GA, USA
-Research Assistant, November 2017 ñ April 2018
-ï Collaborated with Deloitteís data science team to aggregate strategic plans and budgets for 600+ public universities across the U.S. and find trends in current and future university plans in respect to funding from state governments
-ï Created Python program to automatically pull search results of spread sheet items to optimize time spent in initial data gathering phase
-ï Facilitated speedier and less error prone analysis of data by writing Python/Batch scripts to convert pdf files to plain text 
+Research Assistant, November 2017 – April 2018
+•	Collaborated with Deloitte’s data science team to aggregate strategic plans and budgets for 600+ public universities across the U.S. and find trends in current and future university plans in respect to funding from state governments
+•	Created Python program to automatically pull search results of spread sheet items to optimize time spent in initial data gathering phase
+•	Facilitated speedier and less error prone analysis of data by writing Python/Batch scripts to convert pdf files to plain text 
 
 PERSONAL PROJECTS:
 Unix Based Shell
-ï Developed a custom shell for Unix Environment built from scratch in C++ with features such as foreground and background job handling, built in functions, and basic piping functionality
-ï Used low level system calls to communicate with the Unix OS to perform various tasks
+•	Developed a custom shell for Unix Environment built from scratch in C++ with features such as foreground and background job handling, built in functions, and basic piping functionality
+•	Used low level system calls to communicate with the Unix OS to perform various tasks
 
 New York City Rat Population Tracker
-ï Created an Android mobile app that records incidents of rat sightings in NYC to help users avoid high rat traffic
-ï Integrated Firebase into the app to store user information and rat sighting data and allowed users to view other userís entries
-ï Improved sighting information readability by integrating 3rd party graphing API to create data visualization of rat sighting occurrences over time
+•	Created an Android mobile app that records incidents of rat sightings in NYC to help users avoid high rat traffic
+•	Integrated Firebase into the app to store user information and rat sighting data and allowed users to view other user’s entries
+•	Improved sighting information readability by integrating 3rd party graphing API to create data visualization of rat sighting occurrences over time
 
 Smart-Bell
-ï Created a prototype IOT dumbbell using an Arduino device to keep track of number of reps and sets performed using Arduino sensors
-ï Experimented with using Bluetooth capabilities in Arduino device to send workout data back to computer for analysis
-ï Developed a Python program to calculate next workout based on transmitted set data and previous workout routine to simplify user workout experience
+•	Created a prototype IOT dumbbell using an Arduino device to keep track of number of reps and sets performed using Arduino sensors
+•	Experimented with using Bluetooth capabilities in Arduino device to send workout data back to computer for analysis
+•	Developed a Python program to calculate next workout based on transmitted set data and previous workout routine to simplify user workout experience
 
 EXTRACURRICULAR:  
-Student Government Association (IT Board Committee)				         August 2018 ñ Present
-VGDev (Member) 									         August 2018 ñ Present 
-Power Lifting Team (Member)								 January 2017 ñ August 2017
+Student Government Association (IT Board Committee)				                        August 2018 – Present
+VGDev (Member) 									         August 2018 – Present 
+Power Lifting Team (Member)								         January 2017 – August 2017
