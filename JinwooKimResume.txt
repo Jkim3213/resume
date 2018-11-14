@@ -10,7 +10,7 @@ Bachelor of Science in Computer Science						 	    Expected Graduation: May 2020
 •	Relevant Coursework: Data Structure and Algorithms, Object and Design, Intro to AI, Computer Organization and Program, Design and Analysis, Computer Graphics
 
 TECHNOLOGY SUMMARY
-Programming Languages: Java, Python, SQL, HTML, CSS, JavaScript
+Programming Languages: Java, C/C++, Python, SQL, HTML, CSS, JavaScript
 Environments and Tools: AWS, Android, Git, Unix
 Other Related Skills: Microsoft Office (Excel, PowerPoint, Word)
 
